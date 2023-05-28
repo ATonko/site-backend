@@ -9,5 +9,5 @@ import { app } from './api.js';
 const port = process.env.PORT || 3333;
 
 app.listen(port, () =>
-  console.log(`API available on https://kuznetsov-backend-production.up.railway.app//:${port}`)
+  console.log(`API available on https://site-backend-production-ec73.up.railway.app/:${port}`)
 );
