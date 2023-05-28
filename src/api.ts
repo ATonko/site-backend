@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
 
 const api = express.Router();
 
-const uri = 'mongodb://mongo:SXo216P8OZjWL3ERi3Pq@containers-us-west-60.railway.app:6502';
+const uri = 'mongodb://mongo:ESYRIwmdDP0nOM0dTMCA@containers-us-west-174.railway.app:7464';
 
 const dbName = 'test';
 const feedbackCollectionName = 'feedback';
